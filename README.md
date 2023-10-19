@@ -1,4 +1,4 @@
-# midjourney-proxy
+# midjourney-proxy test
 
 代理 MidJourney 的discord频道，实现api形式调用AI绘图
 
